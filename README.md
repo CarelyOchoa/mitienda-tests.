@@ -1,1 +1,2 @@
-# mitienda-tests. > npm init -y
+PS c:\mitienda-tests npm init -y
+
