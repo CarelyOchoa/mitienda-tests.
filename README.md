@@ -1,2 +1,1 @@
-PS c:\mitienda-tests npm init -y
-
+mitienda-tests 
