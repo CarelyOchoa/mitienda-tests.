@@ -1,1 +1,1 @@
-# mitienda-tests.
+# mitienda-tests. > npm init -y
